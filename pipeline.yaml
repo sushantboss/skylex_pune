@@ -1,0 +1,5 @@
+
+include:
+   - project: 'cdam_g2c/corporate/Obs-Hr-Database_Conf'
+     ref: 'master'
+     file: '/templates/gitlab/dataprotectionagreement/gitlab-stages-ci.yml'
